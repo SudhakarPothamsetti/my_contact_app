@@ -1,0 +1,18 @@
+.bg-home{
+    background-color: grey;
+    height: 100vh;
+    padding: 10px;
+
+}
+.head{
+    font-size: 30px;
+    color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.home-card{
+    height: 80%;
+    display: flex;
+    align-items: flex-start;
+}
